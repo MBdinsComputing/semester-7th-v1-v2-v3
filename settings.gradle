@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "semester-7th-v1-v2-v3"
